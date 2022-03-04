@@ -20,7 +20,7 @@ if(!isset($_SESSION['admin'])) {
         <div class="col-12 col-sm-6 col-md-3">
             <div class="card">
                 <div class="card-body">
-                    <p class="card-text"><a class="" href="index.php?page=deletestudentselect">Delete student </a></p>
+                    <p class="card-text"><a class="" href="index.php?page=deletetutorselect">Delete Tutor </a></p>
                 </div>
             </div>
         </div>

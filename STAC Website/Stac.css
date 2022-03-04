@@ -20,3 +20,13 @@
 .dropdown-item {
   transition: 0.5s ease-out;
 }
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
