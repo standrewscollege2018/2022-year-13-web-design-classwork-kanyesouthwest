@@ -25,6 +25,15 @@ if(!isset($_SESSION['admin'])) {
             </div>
         </div>
 
+        <div class="col-12 col-sm-6 col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text"><a class="" href="index.php?page=addstudent">Add Student </a></p>
+                </div>
+            </div>
+        </div>
+
+
     <div class="col-12 col-sm-6 col-md-3">
         <div class="card">
             <div class="card-body">

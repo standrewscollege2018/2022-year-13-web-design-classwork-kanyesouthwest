@@ -5,15 +5,13 @@ $tutor_qry = mysqli_query($dbconnect, $tutor_sql);
 $tutor_aa = mysqli_fetch_assoc($tutor_qry);
 
 ?>
-<!-- where to change bg  -->
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-blue">
   <div class="container-fluid">
       <a href="index.php"><img src="images/logo.png" alt="Stac Logo"></a>
-      <!-- burger menu -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <!-- means burger menu is display under a curtain size -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item dropdown rounded">
